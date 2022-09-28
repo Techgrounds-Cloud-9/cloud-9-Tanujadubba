@@ -1,22 +1,21 @@
-[tanu_first.md](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/files/9662999/tanu_first.md)
+
 Opdracht2exp.md
-**MARKDOWN**
+# MARKDOWN
 Markdown is easy to read easy to write syntax for formating plain text.
 
-**KEYTERMINOLOGY**
-Github flaoverdmarkdown
-Markdown Extra
-Lia script
-WYSIWYM
-WYSIWYG
-**EXCERCISE**
+## KEYTERMINOLOGY
+- Github flaoverdmarkdown
+- Markdown Extra
+- Lia script
+- WYSIWYM
+- WYSIWYG
+# EXCERCISE
 Able to make test document with visualstudio
-**SOURCE**
+# SOURCE
 https://en.wikipedia.org/wiki/Markdown
 https://blog.jotterpad.app/why-need-wysiwyg-markdown-fountain-editor/
 https://en.wikipedia.org/wiki/WYSIWYM
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-**RESULTS**
+# RESULTS
 ~~THIS WAS MISTAKENTEXT~~
 *THIS TEXT IS ITALCIZED*
-
