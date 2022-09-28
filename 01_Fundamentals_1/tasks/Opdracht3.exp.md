@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=KLN2bY0dTtQ
 >I realised i did a mistke while typing the command i used capital instead of small.
 #Results
 Able to connect to the vm.Enterd whoami to see the results.
-[]
+[![alt text](linux1.png "linux1")]
