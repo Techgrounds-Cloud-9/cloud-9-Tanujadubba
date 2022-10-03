@@ -27,3 +27,7 @@ The ability to add networks without interrupting existing services.
 High error-rate handling.
 Platform independence.
 Low data overhead.
+*source*
+https://www.imperva.com/learn/application-security/osi-model/
+https://www.informit.com/articles/article.aspx?p=28782
+https://www.informit.com/articles/article.aspx?p=28782
