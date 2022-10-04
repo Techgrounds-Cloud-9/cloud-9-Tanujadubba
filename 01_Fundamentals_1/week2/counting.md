@@ -22,6 +22,7 @@ Decimal numbers make use of 10 symbols from 0 to 9 and its combinations to repre
 | 73       | 1001001   |
 
 | Binary   | Decimal   |
+| -----    | -----     |
 | 10101010 | 170       |
 | 11110000 | 240       |
 | 11011011 | 219       |
@@ -29,6 +30,7 @@ Decimal numbers make use of 10 symbols from 0 to 9 and its combinations to repre
 | 00111010 | 58        |
 
 | Decimal  | Hex       |
+| -----    | ----      |
 | 15       | F         |
 | 37       | 25        |
 | 246      | F6        |
@@ -36,6 +38,7 @@ Decimal numbers make use of 10 symbols from 0 to 9 and its combinations to repre
 | 209      | D1        |
 
 | Hex      | Decimal   |
+| ----     | -----     |
 | 88       | 136       |
 | eo       | 224       |
 | cb       | 203       |
