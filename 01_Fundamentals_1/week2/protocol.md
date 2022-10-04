@@ -16,7 +16,7 @@ A  network protocol is an established set of rules that determine how data is tr
 # EXCERCISE
 -	Identify several other protocols and their associated OSI layer. Name at least one for each layer.
 | Layernumber   | Layername    | Protocol             |
-| :-----        | :-----:      |   -------:           |
+| :---          |  :----:      |               ---:   |
 | Layer 7       | Application  | SMPTP HTTP FTP       |
 | layer 6       | Presentation | MPEG ASCH  SSL       |
 | Layer 5       | Session      | NETBIOS SAP          |
