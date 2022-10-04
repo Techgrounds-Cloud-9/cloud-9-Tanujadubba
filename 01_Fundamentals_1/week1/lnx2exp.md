@@ -17,6 +17,6 @@ https://linuxhint.com/absolute-relative-paths-linux/
 # overcome challenges
 I was stuck understanding the fifth point of the assingment.
 # Results
-[![alt text](images/linux2.png "linux2")]
+[![alt text](../../00_includes/week1images//linux2.png "linux2")]
 
 - 
