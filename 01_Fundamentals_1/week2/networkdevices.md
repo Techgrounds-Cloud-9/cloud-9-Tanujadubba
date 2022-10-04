@@ -42,5 +42,6 @@ Acces point is a wireless appliance that operats on the OSI models second layer.
 # Overcome challanges
 No overcome challanges.
 # Result
-[![alt text](images/Networkdetails.png "Networkdetails")]
+[![alt text](01_Fundamentals_1 > tasks > images/Networkdetails.png "Networkdetails")]
+[![alt text](images/Dhcpconfi.png "Dhcpconfi")]
 
