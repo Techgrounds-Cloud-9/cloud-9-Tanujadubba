@@ -1,4 +1,4 @@
-protocols.md
+protocol.md
 # PROTOCOLS
 A  network protocol is an established set of rules that determine how data is transmitted between different devices in the same network.
 # KEYTREMINOLGY
