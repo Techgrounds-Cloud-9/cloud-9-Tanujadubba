@@ -20,3 +20,29 @@ Decimal numbers make use of 10 symbols from 0 to 9 and its combinations to repre
 | 228      | 11100100  |
 | 112      | 1110000   |
 | 73       | 1001001   |
+
+| Binary   | Decimal   |
+| 10101010 | 170       |
+| 11110000 | 240       |
+| 11011011 | 219       |
+| 10100000 | 160       |
+| 00111010 | 58        |
+
+| Decimal  | Hex       |
+| 15       | F         |
+| 37       | 25        |
+| 246      | F6        |
+| 125      | 7D        |
+| 209      | D1        |
+
+| Hex      | Decimal   |
+| 88       | 136       |
+| eo       | 224       |
+| cb       | 203       |
+| 2f       | 47        |
+| d8       | 216       |
+
+# Source
+(https://www.schoolelectronic.com/hexadecimal-vs-decimal/)
+(https://www.cuemath.com/numbers/binary-to-decimal/)
+(https://www.youtube.com/watch?v=rsxT4FfRBaM)
