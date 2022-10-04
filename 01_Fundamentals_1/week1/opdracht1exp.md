@@ -29,5 +29,5 @@ I was unable to understand how to push and clone.Took a while to figure it out.H
 
 
 # Results
-[![alt text](clone.png "clone")]
-[![alt text](task1.png "task1")]
+[![alt text](../../00_includes/week1images/clone.png "clone")]
+[![alt text](../../00_includes/week1images/task1.png "task1")]

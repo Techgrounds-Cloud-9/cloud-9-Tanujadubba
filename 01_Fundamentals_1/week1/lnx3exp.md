@@ -14,7 +14,7 @@ https://www.educative.io/answers/how-to-do-input-output-redirection-in-linux
 https://www.cyberciti.biz/faq/linux-append-text-to-end-of-file/
 https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 
-[![alt text](00_includes/lnx3.png "linux3")]
+[![alt text](../../00_includes/week1images/lnx3.png "linux3")]
 
 
 
