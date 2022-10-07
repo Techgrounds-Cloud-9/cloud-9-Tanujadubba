@@ -25,16 +25,23 @@ It is a multiport repeater connects multiple wires from different branches.
 + Active hub
 + Passive hub
 + Intelligent hub
+
 **Bridge**
+
 + A bridge is a device  that joins any two networks or host segments togeather.
+
 **Switch**
 + A switch place more important role than a hub.Switch is a multiport devices that enhances network efficiency Gateway.
+
 **Modem**
 + Modem are devices that transform digital signals into the form of analog signals that are of varios frequencies.
+
 **Gateway**
 + A gateway is a passage that interlinks two networks togeather.
+
 **Access point**
 + Acces point is a wireless appliance that operats on the OSI models second layer.
+
 # Exercise
  Most routers have an overview of all connected devices, find this list. What other information does the router have about connected equipment?
 
