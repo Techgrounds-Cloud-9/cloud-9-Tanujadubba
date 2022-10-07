@@ -54,10 +54,10 @@ When i cpature my own netwok data i found diffrent prortocols running simultamio
 When a new computer joins a local area network (LAN), it will receive a unique IP address to use for identification and communication. 
 Packets of data arrive at a gateway, destined for a particular host machine.
 There are different versions and use cases of ARP. 
-+ Proxy Arp*
-+ Gratuiotous Arp*
-+ Reverse Arp*
-+ Inverse Arp* 
++ Proxy Arp
++ Gratuiotous Arp
++ Reverse Arp
++ Inverse Arp 
 # source
 (https://www.fortinet.com/resources/cyberglossary/what-is-arp)
 (https://www.iana.org/help/protocol-registration)
