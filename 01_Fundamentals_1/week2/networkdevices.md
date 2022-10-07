@@ -10,13 +10,14 @@ networkdevices.md
 **Purpose of networking device**
  It is to enable smooth communication between different hardware connected to a network. Addition of a network device helps in hassle free sharing of network resources between different systems.
  # Types of networking devices
-1.Repeater
-2.Network Hub
-3.Bridge
-4.Switch/Network switch
-5.Modem
-6.Gateway
-7.Access Point
++ Repeater
++ Network Hub
++ Bridge
++ Switch/Network switch
++ Modem
++ Gateway
++ Access Point
+
 **Repeater**
 Repeater simply copies the signal bit by bit and re-generates at its original strength by operating at the physical layer.
 **Network Hub**
