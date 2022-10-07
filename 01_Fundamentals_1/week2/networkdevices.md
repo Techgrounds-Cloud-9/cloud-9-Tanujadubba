@@ -42,7 +42,7 @@ Acces point is a wireless appliance that operats on the OSI models second layer.
 
 - Where is your DHCP server located on your network? What are the configurations of this?
 
-[!alt test](../../00_includes/week2images/Dhcpconfi.png "Dhcpconfi.png")]
+[![alt test](../../00_includes/week2images/Dhcpconfi.png "Dhcpconfi.png")]
 
 
 # SOURECE
