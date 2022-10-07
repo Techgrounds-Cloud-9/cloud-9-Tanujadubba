@@ -29,7 +29,9 @@ A  network protocol is an established set of rules that determine how data is tr
 | Layer 1       | Physical     | RS232 10013ASTX      |
 
 -	Figure out who determines what protocols we use and what is needed to introduce your own protocol.
-IANA determines what protocols we use.
+
+**IANA determines what protocols we use.**
+
 The most common registration procedures are defined in RFC 8126. Examples of widely used registration procedures are:
 
 > First Come First Served
