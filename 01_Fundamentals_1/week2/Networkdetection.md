@@ -16,11 +16,15 @@ stands for Transmission Control Protocol a communications standard that enables 
 The User Datagram Protocol, or UDP, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups.
 **Tlsv1.2**
 Is the newest ssl protocol version.Supported by openssh on z/vse.Transport Layer Security (TLS) 1.2 is the successor to Secure Sockets Layer (SSL) used by endpoint devices and applications to authenticate and encrypt data securely when transferred over a network.
-[![alt text](../..00_includes/week2images/ifconfig.png "ifconfig")]
 
-[![alt text](../..00_includes/week2images/listofservers.png "listofservers")]
+[![alt text](../../00_includes/week2images/ifconfig.png "ifconfig.png")]
 
-[![alt text](../..00_includes/week2images/wiresharkanlyse.png "wiresharkanyse")]
+
+[![alt text](../../00_includes/week2images/listofservers.png "listofsevers.png")]
+
+
+[![alt text](../../00_includes/week2images/wiresharkanlyse.png "wiresharkanlyse.png")]
+
 # source
 (https://www.holmsecurity.com/resources/what-is-nmap)
 (https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/)
