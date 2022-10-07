@@ -2,21 +2,21 @@
 > Open system interconnection model
 > Primarily used for trouble shooting telecommunication or computing system
 **Osi has 7 layers**
->> 1. Application layer
->> 2.Presentation layer
->> 3.session layer
->> 4.Transport layer
->> 5.Network layer
->> 6.Data link layer
->> 7.Physical layer
+- 1. Application layer
+- 2.Presentation layer
+- 3.session layer
+- 4.Transport layer
+- 5.Network layer
+- 6.Data link layer
+- 7.Physical layer
 # TCP/IP
->> Application layer
->> Transport layer
->> Internet layer
->> Network access layer
+* Application layer
+* Transport layer
+* Internet layer
+* Network access layer
 
 **Advantages of osi model**
-> *The OSI model helps users and operators of computer networks:*
+ *The OSI model helps users and operators of computer networks:*
 
 + Determine the required hardware and software to build their network.
 + Understand and communicate the process followed by components communicating across a network. 
@@ -24,11 +24,11 @@
 + The OSI model helps network device manufacturers and networking software vendors
 
 **Advantages of tcp/ip**
-> Good failure recovery.
-> The ability to add networks without interrupting existing services.
-> High error-rate handling.
-> Platform independence.
-> Low data overhead.
++ Good failure recovery.
++ The ability to add networks without interrupting existing services.
++ High error-rate handling.
++ Platform independence.
++ Low data overhead.
 **source**
 (https://www.imperva.com/learn/application-security/osi-model/)
 (https://www.informit.com/articles/article.aspx?p=28782)
