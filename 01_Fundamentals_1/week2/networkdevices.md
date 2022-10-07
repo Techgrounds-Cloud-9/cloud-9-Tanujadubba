@@ -35,13 +35,21 @@ Modem are devices that transform digital signals into the form of analog signals
 A gateway is a passage that interlinks two networks togeather.
 **Access point**
 Acces point is a wireless appliance that operats on the OSI models second layer.
+# Exercise
+ Most routers have an overview of all connected devices, find this list. What other information does the router have about connected equipment?
+
+[![alt test](../../00_includes/week2images/networkdetails.png "networkdetails.png")]
+
+- Where is your DHCP server located on your network? What are the configurations of this?
+
+[!alt test](../../00_includes/week2images/Dhcpconfi.png "Dhconfi.png")]
+
+
 # SOURECE
 (https://blog.netwrix.com/2019/01/08/network-devices-explained/)
 (https://www.techjockey.com/blog/what-are-computer-network-devices#:~:text=The%20purpose%20of%20networking%20devices,network%20resources%20between%20different%20systems)
 
 # Overcome challanges
 No overcome challanges.
-# Result
-[![alt text](01_Fundamentals_1 > tasks > images/Networkdetails.png "Networkdetails")]
-[![alt text](images/Dhcpconfi.png "Dhcpconfi")]
+
 
