@@ -36,7 +36,9 @@ The most common registration procedures are defined in RFC 8126. Examples of wid
 > IETF Review
 > IESG Approval
 -	Look into wireshark and install this program. Try and capture a bit of your own network data. Search for a protocol you know and try to understand how it functions.
-[![alt text]("C:\Users\tanuj\OneDrive\Documents\GitHub\cloud-9-Tanujadubba\00_includes\ownnetworkdata.png")]
+
+[![alt text](../../00_includes/week2images/ownnetworkdata.png "ownnetworkdata.png")]
+
 When i cpature my own netwok data i found diffrent prortocols running simultamiously.I  did my search on *ARP*.
 > ARP is Address resolution protocol
 When a new computer joins a local area network (LAN), it will receive a unique IP address to use for identification and communication. 
