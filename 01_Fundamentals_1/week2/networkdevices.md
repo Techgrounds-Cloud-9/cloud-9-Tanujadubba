@@ -19,8 +19,11 @@ networkdevices.md
 + Access Point
 
 **Repeater**
+
 Repeater simply copies the signal bit by bit and re-generates at its original strength by operating at the physical layer.
+
 **Network Hub**
+
 It is a multiport repeater connects multiple wires from different branches.
 *There are 3 types of Network hubs*
 + Active hub
