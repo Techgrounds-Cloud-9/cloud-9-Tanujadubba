@@ -12,15 +12,15 @@ firewalls.md
  -I have already installed apache2 websevre for my previous assingnments.To chechk the status of the server i used *systemctl status apache2*command.
  By using you ip address and private port number you will be able to see the default page of the severe.
 
- [![alt text](../..00_includes/week2images/apache2web.png "apache2web")] 
+ [![alt text](../../00_includes/week2images/apache2web.png "apache2web.png")]
 
  >To set the firewall for the web traffic , you have to use the command sudo ufw deny http
 
 
- [![alt text](../../..00_includes/week2images/Sec2notworking.png "Sec2notworking")] 
+ [![alt text](../../00_includes/week2images/Sec2notworking.png "Sec2networking.png")] 
 
  
- [![alt text](../../..00_includes/week2images/Sec2port80deny.png "Sec2port80deny")] 
+ [![alt text](../../00_includes/week2images/Sec2port80deny.png) "Sec2port80deny.png")] 
 
  # Overcomechallenges:
  I was able to  finish the exercise without any problems by using the commands.That's what i thought but i was not able to connect my vm.After few discusions with my team mates i still didnt get any solution.I thought if i cant login there is nothing to do from my end.For some time i was stuck then i trace back my steps,then i realize that when i enabled firewall,it
