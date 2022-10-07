@@ -2,13 +2,13 @@
 > Open system interconnection model
 > Primarily used for trouble shooting telecommunication or computing system
 **Osi has 7 layers**
-- 1. Application layer
-- 2.Presentation layer
-- 3.session layer
-- 4.Transport layer
-- 5.Network layer
-- 6.Data link layer
-- 7.Physical layer
+- Application layer
+- Presentation layer
+- session layer
+- Transport layer
+- Network layer
+- Data link layer
+- Physical layer
 # TCP/IP
 * Application layer
 * Transport layer
@@ -29,7 +29,9 @@
 + High error-rate handling.
 + Platform independence.
 + Low data overhead.
+
 **source**
+
 (https://www.imperva.com/learn/application-security/osi-model/)
 (https://www.informit.com/articles/article.aspx?p=28782)
 (https://www.informit.com/articles/article.aspx?p=28782)
