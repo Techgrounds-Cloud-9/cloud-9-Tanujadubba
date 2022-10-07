@@ -39,7 +39,11 @@ The most common registration procedures are defined in RFC 8126. Examples of wid
 
 [![alt text](../../00_includes/week2images/ownnetworkdata.png "ownnetworkdata.png")]
 
+
 When i cpature my own netwok data i found diffrent prortocols running simultamiously.I  did my search on *ARP*.
+
+[![alt text](../../00_includes/week2images/wiresharkanlyse.png "wiresharkanlyse.png")]
+
 > ARP is Address resolution protocol
 When a new computer joins a local area network (LAN), it will receive a unique IP address to use for identification and communication. 
 Packets of data arrive at a gateway, destined for a particular host machine.
