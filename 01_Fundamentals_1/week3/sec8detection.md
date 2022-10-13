@@ -30,32 +30,25 @@ sec8detection.md
    - Systems hardening is a collection of tools, techniques, and best practices to reduce vulnerability in technology applications, systems, infrastructure, firmware, and other areas. The goal of systems hardening is to reduce security risk by eliminating potential attack vector s and condensing the system's attack surface.
  
 ## Different types of disaster recovery options
-  
-  - 
 
+  - Data center disaster recovery.
+  -  Network disaster recovery.
+  - Virtualized disaster recovery.
+  - Cloud disaster recovery.
+  - Disaster recovery as a service (DRaaS) 
 
-
-
-
-
-
-
-
-
-
-
+# Overcomechallenges
+ No overcome challenges,the concept is for us to understnd by studying.
 
 
 # Exercise
 - A Company makes daily backups of their database. The database is automatically recovered when a failure happens using the most recent available backup. The recovery happens on a different physical machine than the original database, and the entire process takes about 15 minutes. What is the RPO of the database?
 
+ - Ans: The Rpo of the database is 24 hrs.
 
+- An automatic failover to a backup web server has been configured for a website. Because the backup has to be powered on first and has to pull the newest version of the website from GitHub, the process takes about 8 minutes. What is the RTO of the website?
 
-
-
-
-An automatic failover to a backup web server has been configured for a website. Because the backup has to be powered on first and has to pull the newest version of the website from GitHub, the process takes about 8 minutes. What is the RTO of the website?
-
+- Ans: 8 minutes.
 
 # Source
 (https://securityboulevard.com/2019/11/5-tips-for-responding-to-cyber-attacks/)
