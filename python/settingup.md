@@ -11,10 +11,11 @@ settingup.md
 None.
 
 # Exercise
-- Install the latest version of Python from https://www.python.org/
+- Install the latest version of Python from (https://www.python.org/)
+
   - Installed using the website.
 
-- Install VS Code from https://code.visualstudio.com/download
+- Install VS Code from (https://code.visualstudio.com/download)
    
   - Installed already for previous assingments.
 
@@ -23,8 +24,6 @@ None.
  - Installed in visuall studio.
 
 -	Write the following Python code. The output in the terminal should be the text “Hello world!”
-
-[![alt test](firstpython.py) "firstpython.py"]
 
 [![alt test](../00_includes/pythonweek4/prg1hello.png "prg1hello.png")]
 
