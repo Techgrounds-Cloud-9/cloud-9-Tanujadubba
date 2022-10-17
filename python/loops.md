@@ -36,7 +36,7 @@ With the for loop we can execute a set of statements, once for each item in a li
 -	Create a variable x and give it the value 0.
 -	Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.
 
-[![alt test](../../cloud-9-Tanujadubba/00_includes/pythonweek4/whileex1.png) "whileex1.png"]
+[![alt test](../00_includes/pythonweek4/whileex1.png) "whileex1.png"]
 
 
 # Exercise2
@@ -45,9 +45,9 @@ With the for loop we can execute a set of statements, once for each item in a li
 -	Add a variable x with value 5 at the top of your script.
 -	Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.
 
-[![alt test](../../cloud-9-Tanujadubba/00_includes/pythonweek4/forloop.png) "forloop.png"]
+[![alt test](../00_includes/pythonweek4/forloop.png) "forloop.png"]
 
-[![alt test](../../cloud-9-Tanujadubba/00_includes/pythonweek4/forloopmulti.png) "forloopmulti.png"]
+[![alt test](../00_includes/pythonweek4/forloopmulti.png) "forloopmulti.png"]
 
 
 # Exercise3
