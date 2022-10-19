@@ -1,5 +1,5 @@
 def avg(x,y):
-     z = sum(x , y)/2
+     z = sum(x + y)/2
      return z
 
 x = 128
