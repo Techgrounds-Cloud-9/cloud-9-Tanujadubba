@@ -5,18 +5,18 @@
 
 # Key terminology
 
-**REPOSITORY:** Repository contains all your files and revision history.You can see the changes made by others.
+**REPOSITORY:**  Repository contains all your files and revision history.You can see the changes made by others.
 
-**REPO:**Is a digital directory. You can access your project and it"s all version of files.
+**REPO:** Is a digital directory. You can access your project and it"s all version of files.
 
 **MAIN:** If you create a new digital directory in your local system and in github yhe the default name of directory (repo) might be main.
 
-**MASTER:**The default  branch name at github is master.
+**MASTER:** The default  branch name at github is master.
 BRANCH:It will allow you to fix problems and try new ideas in a safely contained area of your own repoistory.
 
-**COMMIT:**You can change a file individually.
+**COMMIT:** You can change a file individually.
 
-**PUSH:**If you create new file/folder firstly you have to commit history from your repository upto Github by pushing.
+**PUSH:** If you create new file/folder firstly you have to commit history from your repository upto Github by pushing.
 MERGE:Merging is Gits way of pulling history back to its origin.
 FORK:It's a copy of repository that you manage.
 
