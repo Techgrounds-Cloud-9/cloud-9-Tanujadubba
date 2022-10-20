@@ -65,6 +65,8 @@
 
 ![alt test](../00_includes/pythonweek4/prg8excelex2.png "prg8excelex2.png")
 
+![alt test](../00_includes/pythonweek4/prg8csv3ex2.png "prg8csv3ex2.png")
+
 # Source
 
 (https://www.w3schools.com/python/python_dictionaries.asp)
