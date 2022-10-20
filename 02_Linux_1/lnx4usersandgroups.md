@@ -31,7 +31,7 @@ There is a special user called ‘root’. Root is allowed to do anything.
 
 # Result
 
-![alt test](../../cloud-9-Tanujadubba/00_includes/week1images/linux2.png "linux2.png")
+![alt test](../00_includes/week1images/linux2.png "linux2.png")
 
 
 
