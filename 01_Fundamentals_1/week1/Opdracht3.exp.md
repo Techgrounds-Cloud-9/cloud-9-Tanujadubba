@@ -1,4 +1,4 @@
-Opdracht3.exp.md
+lnxsettingup.exp.md
 ## SETTING UP LINUX SERVER
 # KEY TERMINOLOGY
 GUI:Graphical user interface,in linux it is considered to be optional.
