@@ -17,18 +17,10 @@ lnx5filepermissions.md
 - Execute (x): In Unix type system, you can't run or execute a program unless execute permission is set.
 
 
-
-
-
 # Source
 (https://www.javatpoint.com/linux-file-permissions)
 
-
-
-
-
-
-
+(https://linuxize.com/post/chgrp-command-in-linux/)
 
 # Exercise
 
@@ -40,5 +32,7 @@ lnx5filepermissions.md
 - Change the group ownership of the file to a different 
 
 # Result
-![alt test]()
+![alt test](../00_includes/week1images/lnx5_1.png "lnx5_1.png")
+
+![alt test](../00_includes/week1images/lnx5_2.png "lnx5_2.png")
 

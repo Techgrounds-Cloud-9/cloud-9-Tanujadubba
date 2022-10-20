@@ -31,7 +31,13 @@ There is a special user called ‘root’. Root is allowed to do anything.
 
 # Result
 
-![alt test](../00_includes/week1images/linux2.png "linux2.png")
+
+![alt test](../00_includes/week1images/lnx4F.png ""lnx4F.png")
+
+![alt test](../00_includes/week1images/lnx4s.png "lnx4s.png")
+
+![alt test](../00_includes/week1images/lnx4t.png "lnx4t.png")
+
 
 
 
