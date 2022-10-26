@@ -29,8 +29,8 @@
    - Availability Zones are physically separated zones within an Azure region. Availability zones guarantee you will have virtual machine Connectivity to at least one instance at least 99.99% of the time when you have two or more instances deployed across two or more Availability Zones in the same Azure region.
    - Azure virtual machine scale sets let you create and manage a group of load balanced VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule. Scale sets provide the following key benefits:
 
-         - Easy to create and manage multiple VMs
-         - Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
+        - Easy to create and manage multiple VMs
+        - Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
         - Allows your application to automatically scale as resource demand changes
         - Works at large-scale
 **Sizes and pricing**
