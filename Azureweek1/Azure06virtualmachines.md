@@ -80,3 +80,32 @@
 
 (https://learn.microsoft.com/en-us/azure/virtual-machines/linux/nsg-quickstart)
 
+(https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
+
+(https://learn.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows)
+
+(https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-linux)
+
+(https://learn.microsoft.com/en-us/azure/virtual-machines/linux-vm-connect?tabs=Linux)
+
+# Exercise
+- Create a VM with the following requirements:
+    - Ubuntu Server 20.04 LTS - Gen1
+    - Size: Standard_B1ls
+    -  Allowed inbound ports:
+    - HTTP (80)
+    - SSH (22)
+    -  OS Disk type: Standard SSD
+    -  Networking: defaults
+    - Boot diagnostics are not necessary
+    - Custom dates:
+
+# Result
+
+![alt test](../00_includes/Azure1week5/Azure06vm1.png "Azure06vm1.png")
+
+![alt test](../00_includes/Azure1week5/Azure06vm2.png "Azure06vm2.png")
+
+![alt test](../00_includes/Azure1week5/Azure06vm3.png "Azure06vm3.png")
+
+![alt test](../00_includes/Azure1week5/Azure06vm4.png "Azure06vm4.png")

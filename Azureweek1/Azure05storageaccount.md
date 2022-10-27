@@ -29,6 +29,8 @@
 
 - Retrieve the data to your own computer using the Azure Storage Explorer.
 
+![alt test](../00_includes/Azure1week5/Azure05storageexplorercat.png "Azure05storageexplorercat.png")
+
 
 
 # Overcome challenges
@@ -54,3 +56,5 @@
 (https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal)
 
 (https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-manage?tabs=dotnet)
+
+(https://azure.microsoft.com/en-us/products/storage/storage-explorer/#overview)
