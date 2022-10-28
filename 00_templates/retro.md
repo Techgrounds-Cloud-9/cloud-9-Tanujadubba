@@ -1,4 +1,4 @@
-# [DeSneks] Retro of Week [4&5]
+# [DevSneks] Retro of Week [4&5]
 
 
   ### Karim
