@@ -46,7 +46,6 @@ Azure standard HDDs deliver reliable, low-cost disk support for VMs running late
 
 ![alt test](../00_includes/Azure1week5/machines.png "machines.png")
 
-![alt test](../00_includes/Azure1week5/managementgroup.png "managementgroup.png")
 
 
 - Creëer op je eerste machine een bestand en plaats deze op de Shared Disk.
@@ -72,6 +71,7 @@ Azure standard HDDs deliver reliable, low-cost disk support for VMs running late
 - Maak een snapshot van de schijf en probeer hier een nieuwe Disk mee te maken
 - Mount deze nieuwe Disk en bekijk het bestand
 
+![alt test](../00_includes/Azure1week5/disksnap.png "disksnap.png")
 
 
 ![alt test](../00_includes/Azure1week5/snapdiskdatadrive1.png "snapdiskdatadrive.png")
