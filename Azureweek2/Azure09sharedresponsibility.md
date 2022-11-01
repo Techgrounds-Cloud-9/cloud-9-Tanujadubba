@@ -26,7 +26,7 @@
    - Access management
 
 
-   ![alt test](../00_includes/Azure2week6/sharedresposibility.png "sharedresponsibility.png")
+   ![alt test](../00_includes/Azure2week6/azuresharedresponsbilitymodel.png "azuresharedresponsibility.png")
 
 
 # Source:
