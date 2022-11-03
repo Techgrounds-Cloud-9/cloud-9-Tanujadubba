@@ -41,11 +41,10 @@
         - Retry guidance for specific services
 
   **Reliability design principles:**
-    
+     
      - Context for questions
      - Why a certain aspect is important
      - How an aspect is applicable to Reliability
-
 # Security
 - Think about security throughout the entire lifecycle of an application, from design and implementation to deployment and operations. The Azure platform provides protections against various threats, such as network intrusion and DDoS attacks
 
