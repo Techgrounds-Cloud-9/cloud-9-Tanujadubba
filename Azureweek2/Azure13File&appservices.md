@@ -39,6 +39,12 @@
 # Exercise:
 # File services:
 
+
+![alt test](../00_includes/Azure2week6/Azure13storageaccount.png "Azure13storagecount.png")
+
+
+![alt test](../00_includes/Azure2week6/azure13myfiles.png "azure13myfiles.png")
+
 ![alt test](../00_includes/Azure2week6/azure13fileinlocalsystem.png "azure13fileinlocalsystem.png")
 
 ![alt test](../00_includes/Azure2week6/azure13fileinlocalsystem2.png "azure13fileinlocalsystem.png")
@@ -46,10 +52,7 @@
 ![alt test](../00_includes/Azure2week6/azure13fileinpowershell.png "azure13fileinpowershell.png")
 
 
-![alt test](../00_includes/Azure2week6/azure13myfiles.png "azure13myfiles.png")
 
-
-![alt test](../00_includes/Azure2week6/Azure13storageaccount.png "Azure13storagecount.png")
 
 
 
