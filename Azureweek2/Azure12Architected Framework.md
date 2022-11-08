@@ -41,6 +41,7 @@
         - Retry guidance for specific services
 
   **Reliability design principles:**
+     
      - Context for questions
      - Why a certain aspect is important
      - How an aspect is applicable to Reliability

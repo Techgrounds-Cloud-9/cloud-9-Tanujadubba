@@ -54,6 +54,32 @@
 
 
 
+# Exercise:
+
+- Creating a SQL Database:
+
+
+![alt test](../00_includes/Azure2week6/azure13basic.png "azure13basic.png")
+
+
+
+![alt test](../00_includes/Azure2week6/azure13networking.png "azure13networking.png")
+
+
+
+![alt test](../00_includes/Azure2week6/azure13sqlcinfigu.png "azure13sqlcinfigu.png")
+
+![alt test](../00_includes/Azure2week6/azure13rc.png "azure13rc.png")
+
+
+![alt test](../00_includes/Azure2week6/azure13queryedit.png "azure13queryedit.png")
+
+
+![alt test](../00_includes/Azure2week6/azure13sqldb.png "azure13sqldb.png")
+
+
+
+
 
 
 
