@@ -113,7 +113,7 @@
 - Create an alert with which you can monitor your own Cloud Pass.
 
 
-![alt test](../00_includes/Alertfor02.png "Alertfor02.png")
+![alt test](../00_includes/Azure1week5/Alertfor02.png "Alertfor02.png")
 
 
 
