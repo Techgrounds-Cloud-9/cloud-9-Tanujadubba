@@ -105,15 +105,7 @@
    ![alt test](../00_includes/Azure3week3/azuremonitorsoverview.png "azuremonitorsoverview.png")
 
 
-
-
-
-
-
-
-
-
- # Source:
+# Source:
 
  (https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-insights)
 
