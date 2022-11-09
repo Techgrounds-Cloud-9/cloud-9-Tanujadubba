@@ -26,7 +26,8 @@
 
     - Creating Active Directory Tenanat:
 
-    ![alt test](00_includes/Azure3week3/AD1newuser.png "AD1newuser.png")
+
+    ![alt test](../00_includes/Azure3week3/AD1newuser.png "AD1newuser.png")
 
     - New user created Apple Box
 
