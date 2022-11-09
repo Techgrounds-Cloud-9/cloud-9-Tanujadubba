@@ -26,5 +26,56 @@
 
     - Creating Active Directory Tenanat:
 
+    ![alt test](00_includes/Azure3week3/AD1newuser.png "AD1newuser.png")
 
-    00_includes/Azure3week3/AD1newuser.png
+    - New user created Apple Box
+
+    ![alt test](../00_includes/Azure3week3/AD2newuseracc.png "AD2newuseracc.png")
+
+
+    - Loged into Azureportal as Apple:
+
+
+    ![alt test](../00_includes/Azure3week3/AD3appledirec.png "AD3appledirec.png")
+
+
+    ![alt test](../00_includes/Azure3week3/AD4applerole.png "AD4applerole.png")
+
+    - Creating New teanat:
+
+
+    ![alt test](../00_includes/Azure3week3/AD5newten.png "AD5newten.png")
+
+
+    - Giving Global Adminstarive permissions to the user(Apple)
+
+
+
+    ![alt test](../00_includes/Azure3week3/AD6myorg.png "AD6myorg.png")
+
+
+
+    ![alt test](../00_includes/Azure3week3/AD7glob.png "AD7glob.png")
+
+
+
+
+    - Creating Groups to New Tenant(Apple)
+
+
+    ![alt test](../00_includes/Azure3week3/AD1group.png "AD1group.png")
+
+
+    ![alt test](../00_includes/Azure3week3/AD2groups.png "AD2groups.png")
+
+
+    ![alt test](../00_includes/Azure3week3/AD3groups.png "AD3groups.png")
+
+
+    - Assining role to the group.
+
+    ![alt test](../00_includes/Azure3week3/AD4applerole.png "AD4applerole.png")
+
+
+
+    ![alt test](../00_includes/Azure3week3/AD5groups.png "AD5groups.png")
