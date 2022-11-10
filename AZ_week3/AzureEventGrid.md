@@ -81,3 +81,6 @@
 ![alt test](../00_includes/Azure3week3/Egridfiles.png "Egridfiles.png")
 
 
+![alt test](../00_includes/Azure3week3/Egridview.png "Egridview.png")
+
+
