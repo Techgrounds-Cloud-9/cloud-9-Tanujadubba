@@ -48,3 +48,18 @@
 
 
 ![alt test](../00_includes/Azure3week3/Cosmoscontainer6.png "Cosmoscontainer6.png")
+
+
+
+
+# Source
+
+(https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
+
+
+
+(https://learn.microsoft.com/en-us/azure/cosmos-db/)
+
+
+
+(https://learn.microsoft.com/en-us/azure/cosmos-db/relational-nosql)
