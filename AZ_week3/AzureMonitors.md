@@ -39,6 +39,10 @@
  - Alerting
 
 
+
+ # Exercise:
+
+
  - Created a virtual machine to Monitor the Metrics,Logs,Insight...
 
 
