@@ -15,3 +15,11 @@
 # Date: 2-12-2022
 *Friday:* Read about bicep code for creating a Virtual machine and how the var and param works in the code.
 
+# Date: 5-12-2022
+- Monday: Read about ARM templates.
+
+# Date: 6-12-2022
+- Tuesday: Did a deplyoment to create a Linux virtual Machine using bicep and countinued reading bicep docmentation.
+
+# Date: 7-12-2022
+- Wednesday: Deplyed Linux and ,Windows VM's using bicep code and deleted. Read about publicip and network security groups,to undestand the usage of Dynamic or Static of publicipAllocation method.  
