@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "newStorageAccountName": {
+      "value": "webstorpr1"
+    },
+    "adminUsername": {
+      "value": "tanuja123@"
+    },
+    "dnsNameForPublicIP": {
+      "value": "webdns"
+    },
+    "ubuntuOSVersion": {
+      "value": "18.04-LTS"
+    },
+    "vmSize": {
+      "value": "Standard_B2s"
+    },
+    "authenticationType": {
+      "value": "password"
+    },
+  }
+}
