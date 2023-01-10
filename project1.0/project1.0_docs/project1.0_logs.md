@@ -7,7 +7,7 @@
 - Project1.0 is not clear for us.We had a discusion with the product owner.
 
 ## Solutions
-- Nothing
+- After the discusion with the product owner i have some understanding on service we need to finish the project.
 ## Learnings
 - I have spend the entire day reading on the project requirements and try to understand the services needed.
 
