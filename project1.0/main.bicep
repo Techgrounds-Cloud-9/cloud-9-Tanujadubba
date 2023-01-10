@@ -126,28 +126,28 @@ module keyVault 'key_vault.bicep' = {
   }
 }
 // Creating Diskencryption for Linux
-module Diskencrptlinux 'DiskencryptionLinux.bicep' = {
-  scope: rg
-  name: 'DiskencrypLinux'
-  params: {
-    location: location
-    vmName: webserver.name
-  }
-    dependsOn : [
-      keyVault 
+//module Diskencrptlinux 'DiskencryptionLinux.bicep' = {
+  //scope: rg
+  //name: 'DiskencrypLinux'
+  //params: {
+    //location: location
+    //vmName: webserver.name
+  //}
+    //dependsOn : [
+      //keyVault 
       
-    ]
-  }
+    //]
+  //}
 
 // Creating Diskencryption for Windowsvm
-module Diskencryptwind 'Diskencryptionwind.bicep'= {
-  scope: rg
-  name: 'DiskencryptWind'
-  params: {
-    location: location
-    vmName: managmentserver.name
-  }
-  dependsOn: [
-    keyVault
-  ]
-} 
+//module Diskencryptwind 'Diskencryptionwind.bicep'= {
+  //scope: rg
+  //name: 'DiskencryptWind'
+  //params: {
+    //location: location
+    //vmName: managmentserver.name
+  //}
+  //dependsOn: [
+    //keyVault
+  //]
+//} 
