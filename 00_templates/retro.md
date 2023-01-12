@@ -1,15 +1,46 @@
-# [Group] Retro of Week [N]
-Scrum master: Give everybody 10 minutes to answer the questions stated below. Then allow them to write them down.
+# [DevSneks] Retro of Week [4&5]
 
-Everybody: Use 10 minutes to answer the given questions. Write the answer down.
 
-Afterwards: Place a copy of this filled out form in your repository.
-
+  ### Karim
 ## What went well?
- - Example: We used the pomodoro technique and we were able to get a good overview of the assignments.
+ 
+ - The communication and respect for each other.
 
 ## What could have gone better?
- - Example: We took a bit too long on our standups and wasted time.
+- More involvement team to check progress group.
 
 ## What can we do to improve?
- - Example: We could use a more efficient way of doing the standups.
+- After certain time to connect to check progress group.
+
+   ### Atalla
+## What went well?
+ - Good team spirit. Collaboration all the way even between members that study different Cloud Service Provider.
+
+## What could have gone better?
+
+- In general nothing. But maybe I would've liked to exchange more knowledge between Azure and AWS to get a wider scope of knowledge about the Cloud. But then again, that wasn't really feasible considering the extensive content and all the fuss with the accounts the Azure people had.
+
+
+## What can we do to improve?
+
+- I think organizing like daily short team meetings at the end of the day to exchange knowledge between Azure and AWS (if possible) can be an option
+
+
+  ### Tanuja
+## What went well?  
+
+- Dialy statdups on each day to know the progress of each other and team discusions either Azure/Aws 
+
+### What could have gone better?
+
+- If i manage my time while doing the theoritical exercises ,i would have spend more time on my practical exercises.
+
+
+## What can we do to improve?
+- By managing the time.
+- Not to spend too much on one issue.
+
+
+
+
+
