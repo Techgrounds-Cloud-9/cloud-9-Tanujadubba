@@ -1,9 +1,9 @@
-#Log [10/1/2023]
+# Log [10/1/2023]
 
-##Daily report:
+## Daily report:
 - Read about virtual machine scaleset,Proxy server.
 
-##Obstacles:
+## Obstacles:
 - Nothing
 
 ## Solutions:
@@ -13,9 +13,9 @@
  - Read about vm scaleset ,Proxy.Worked on Architecutre diagram of project1.0.
  (https://proprivacy.com/vpn/guides/proxy-server)
 
-#Log [11/1/2023]
+# Log [11/1/2023]
 
-##Daily report:
+## Daily report:
 - Started working on Vm scaleset bicep file.
 
 ## Obstacles:
@@ -25,9 +25,9 @@
 - I was working on vm scaleset bicep file.According to project1.1 webserver in no longer available for public and needs health check on vms.I read about health probe documentaion from Microsoft documentaion.
 
 
-##Log [12/1/2023]
+## Log [12/1/2023]
 
-##Daily report:
+## Daily report:
 - working on VM scaleset bicep file.
 
 ## Obstacles
