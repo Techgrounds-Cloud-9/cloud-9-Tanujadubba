@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "keyVaultName": {
+      "value": "keyTechpr"
+    },
+    "objectId": {
+      "value": "aeb7ca0d-7d4b-4fb6-b0ae-c1239393719e"
+    },
+    "skuName": {
+      "value": "standard"
+    }
+  }
+}

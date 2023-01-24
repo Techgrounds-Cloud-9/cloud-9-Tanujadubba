@@ -64,6 +64,7 @@ module managmentserver 'managmentserver.bicep' = {
     location: location
     adminPassword: adminPassword
     adminUsername: adminUsername
+    dnsLabelPrefix: 
     //storageAccountName: storage.outputs.name
  }
 }

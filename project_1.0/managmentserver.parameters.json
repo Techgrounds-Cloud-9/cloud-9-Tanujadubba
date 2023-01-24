@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "tanuja123"
+    },
+    "publicIPAllocationMethod": {
+      "value": "Static"
+    },
+    "publicIpSku": {
+      "value": "Basic"
+    },
+    "OSVersion": {
+      "value": "2022-datacenter-azure-edition-core"
+    },
+    "vmSize": {
+      "value": "Standard_B2ms"
+    },
+    "vmName": {
+      "value": "WindVm"
+    },
+    "subnetName": {
+      "value": "Winsubnet"
+    }
+  }
+}
