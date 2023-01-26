@@ -24,7 +24,7 @@
 - You can Deploy the stoage.bicep files from visual studio or using CLI commands.
 - You can go to this location to access the file.
  
- link
+ [Storage.bicep](project_1.1/storage.bicep)
 
 
 - Similarlly you can deploy Individuall bicep files from the Github link given below.Files are stored under the name Project_1.1.
