@@ -1,3 +1,14 @@
+### Client Requirements
+
+- The web server must no longer be accessible “naked” on the internet. The customer prefers to see a proxy intervening. Also, the server will no longer have to have a public IP address.
+Should a user connect to the load balancer via HTTP, this connection should be automatically upgraded to HTTPS.
+- The connection must be secured with at least TLS 1.2 or higher.
+- The web server must undergo a 'health check' on a regular basis.
+- Should the web server fail this health check, the server should be automatically restored.
+- If the web server is under constant load, a temporary extra server should be started. The customer thinks that there is never more than 3 servers in total needed given the number of users in the past.
+
+
+
 ### Decisions I have made for project_1.1
 
 - The application code Can create in different modules.
