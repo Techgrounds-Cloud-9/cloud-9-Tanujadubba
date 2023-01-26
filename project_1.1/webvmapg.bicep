@@ -166,6 +166,11 @@ resource vmScaleSet 'Microsoft.Compute/virtualMachineScaleSets@2021-11-01' = {
     upgradePolicy: {
       mode: 'Manual'
     }
+    automaticRepairsPolicy: {
+      enabled: true
+      gracePeriod: 'PT10M'
+      repairAction: 'Replace'
+    }
     virtualMachineProfile: {
       storageProfile: {
         osDisk: {
@@ -235,6 +240,21 @@ resource vmScaleSet 'Microsoft.Compute/virtualMachineScaleSets@2021-11-01' = {
               }
             }
           }
+          {
+            name: 'healthChecker'
+            properties:{
+              publisher:'Microsoft.ManagedServices'
+              type: 'ApplicationHealthLinux'
+              autoUpgradeMinorVersion:true
+              typeHandlerVersion: '1.0'
+              settings:{
+                protocol: 'tcp'
+                port: 80
+                //requestpath: '/health'
+                //path: '/'
+              }
+            }
+          } 
            ]
       }
     }

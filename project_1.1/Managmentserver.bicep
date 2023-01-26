@@ -1,13 +1,13 @@
 @description('Username for the Virtual Machine.')
-param adminUsername string
+param mgmtadminUsername string
 
 @description('Password for the Virtual Machine.')
 @minLength(12)
 @secure()
-param adminPassword string
+param mgmtadminPassword string
 
 @description('Unique DNS Name for the Public IP used to access the Virtual Machine.')
-param dnsLabelPrefix string = toLower('${vmName}-${uniqueString(resourceGroup().id)}')
+param mgmtdnsLabelPrefix string 
 @description('Allocation method for the Public IP used to access the Virtual Machine.')
 @allowed([
   'Dynamic'
@@ -94,26 +94,21 @@ param vmSize string = 'Standard_B2ms'
 param location string = resourceGroup().location
 
 @description('Name of the virtual machine.')
-param vmName string = 'WindVm'
+param vmName string = 'MgmtVm'
+param storageAccountName string 
 
-var storageAccountName = 'bootdiags${uniqueString(resourceGroup().id)}'
-var nicName = 'WinVMNic'
-var addressPrefix = '10.20.20.0/24'
+//var storageAccountName = 'bootdiags${uniqueString(resourceGroup().id)}'
+var nicName = 'MgmtvmNic'
+var addressPrefix = '10.20.0.0/16'
 @description('Name of the subnet in the virtual network')
-param subnetName string = 'Winsubnet'
-var subnetPrefix = '10.20.20.0/25'
-var virtualNetworkName = 'WinVNET'
-var networkSecurityGroupName = 'Win-NSG'
-var publicIpName = 'WinpublicIp'
-resource stg 'Microsoft.Storage/storageAccounts@2021-04-01' = {
+param subnetName string = 'Mgmtsubnet'
+var subnetPrefix = '10.20.20.0/24'
+var virtualNetworkName = 'MgmtVNET'
+var networkSecurityGroupName = 'MgmtNSG'
+var publicIpName = 'MgmtpublicIp'
+resource stg 'Microsoft.Storage/storageAccounts@2021-04-01' existing = {
   name: storageAccountName
-  location: location
-  sku: {
-    name: 'Standard_LRS'
   }
-  kind: 'Storage'
-}
-
 resource pip 'Microsoft.Network/publicIPAddresses@2021-02-01' = {
   name: publicIpName
   location: location
@@ -126,7 +121,7 @@ resource pip 'Microsoft.Network/publicIPAddresses@2021-02-01' = {
   properties: {
     publicIPAllocationMethod: publicIPAllocationMethod
     dnsSettings: {
-      domainNameLabel: dnsLabelPrefix 
+      domainNameLabel: mgmtdnsLabelPrefix 
     }
   }
 }
@@ -145,8 +140,8 @@ resource securityGroup 'Microsoft.Network/networkSecurityGroups@2021-02-01' = {
           destinationPortRange: '3389'
           protocol: 'Tcp'
           sourcePortRange: '*'
-          sourceAddressPrefix: '*'
-          //sourceAddressPrefix: '143.178.236.209'
+          //sourceAddressPrefix: '*'
+          sourceAddressPrefix: '143.178.236.209'
           destinationAddressPrefix: '*'
         }
       }
@@ -210,8 +205,8 @@ resource vm 'Microsoft.Compute/virtualMachines@2021-03-01' = {
     }
     osProfile: {
       computerName: vmName
-      adminUsername: adminUsername
-      adminPassword: adminPassword
+      adminUsername: mgmtadminUsername
+      adminPassword: mgmtadminPassword
     }
     storageProfile: {
       imageReference: {
@@ -226,13 +221,13 @@ resource vm 'Microsoft.Compute/virtualMachines@2021-03-01' = {
           storageAccountType: 'StandardSSD_LRS'
         }
       }
-      dataDisks: [
-        {
-          diskSizeGB: 1023
-          lun: 0
-          createOption: 'Empty'
-        }
-      ]
+      //dataDisks: [
+       // {
+         // diskSizeGB: 1023
+         // lun: 0
+          //createOption: 'Empty'
+        //}
+      //]
     }
     networkProfile: {
       networkInterfaces: [
@@ -254,7 +249,5 @@ resource vm 'Microsoft.Compute/virtualMachines@2021-03-01' = {
 output storageAccountName string = storageAccountName
 output pip string = pip.properties.ipAddress
 output WinVNET string = vn.name
-
-//publicipmgmtserver: managmentservervm.outputs.pip
 
 
