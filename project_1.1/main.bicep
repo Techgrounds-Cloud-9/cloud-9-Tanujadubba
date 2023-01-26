@@ -105,6 +105,8 @@ module keyvault 'keyvault.bicep' = {
 
 // aeb7ca0d-7d4b-4fb6-b0ae-c1239393719e
 
+
+/*
 // Creating Disk encryption for windows Vm(Managmentserver)
 module Diskenwind 'Diskencrymangment.bicep' = {
   scope: rg
@@ -114,12 +116,8 @@ module Diskenwind 'Diskencrymangment.bicep' = {
    keyVaultName:keyVaultName
    vmName:mangmentvm.name
  }
- dependsOn:[
-  mangmentvm
-  keyvault
- ]
 }
-
+*/
   
   
   
