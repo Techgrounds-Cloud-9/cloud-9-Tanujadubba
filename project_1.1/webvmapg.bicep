@@ -169,7 +169,7 @@ resource vmScaleSet 'Microsoft.Compute/virtualMachineScaleSets@2021-11-01' = {
     automaticRepairsPolicy: {
       enabled: true
       gracePeriod: 'PT10M'
-      repairAction: 'Replace'
+      //repairAction: 'Replace'
     }
     virtualMachineProfile: {
       storageProfile: {
