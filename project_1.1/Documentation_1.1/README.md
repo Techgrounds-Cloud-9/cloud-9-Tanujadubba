@@ -24,16 +24,16 @@
 - You can Deploy the stoage.bicep files from visual studio or using CLI commands.
 - You can go to this location to access the file.
  
- [Storage.bicep](project_1.1/storage.bicep)
+ [Storage.bicep](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/blob/34a08b21368a2515593d0cbf024248b514aae9e0/project_1.1/storage.bicep)
 
 
 - Similarlly you can deploy Individuall bicep files from the Github link given below.Files are stored under the name Project_1.1.
 
-link
+[Github link](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/tree/main/project_1.1)
 
 - If you want to deploy all the files togeather Deploy main.bicep from the github link.Use the parameter file as refrence to give the values.
 
-link
+[main.bicep](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/blob/34a08b21368a2515593d0cbf024248b514aae9e0/project_1.1/main.bicep)
 
 - Deployment will take approximately 15 to 20 minutes.
 - If the deplyoment is sucessed , connect the windows server using RDP.
