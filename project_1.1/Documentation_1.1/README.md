@@ -35,6 +35,8 @@
 
 [main.bicep](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/blob/34a08b21368a2515593d0cbf024248b514aae9e0/project_1.1/main.bicep)
 
+[parameterfile](https://github.com/Techgrounds-Cloud-9/cloud-9-Tanujadubba/blob/371bba8046adf47756e4351afe2810bc50bd3efa/project_1.1/main.parameters.json)
+
 - Deployment will take approximately 15 to 20 minutes.
 - If the deplyoment is sucessed , connect the windows server using RDP.
 - Once you have connected to the Managment server,use FrontendIP of Web server to connect the web vm.
