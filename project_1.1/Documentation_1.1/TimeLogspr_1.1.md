@@ -63,7 +63,7 @@
 ## Learnings:
 - Read about Applicationgateway from microsoft documentaion.
 
-##Log [17/1/2023]
+## Log [17/1/2023]
 
 ## Dialy report:
 - Started working on Applicationgateway bicep code.
