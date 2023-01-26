@@ -1,7 +1,7 @@
 ### Design Document for project1.1
 
 
-![alt test](ArchitectureDia%60_1.1.png "ArchitectureDesign")
+![alt test](ArchitectureDia_1.1.png "ArchitectureDesign")
 
 
 
