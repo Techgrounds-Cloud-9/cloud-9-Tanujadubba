@@ -55,6 +55,14 @@
 
 
  - Go back to portal to observe the stress is more ,new vms are getting created or not.If the stress is cooldown VMs will delete automatically.
+ - Once the deployment succeeded connect the Managmentserver using RDP connection
+ - If you are able to connect to windows machine,by using privateIp of virtualmachine from webserver connect to the webserver.
+ - By using this command you will be abele to connect
+
+      ssh usernameofwebserver@privateip of Virtualmachine
+      
+ - You can only be able to access the webserver from the managment server publicip.
+
 
 
 - Enjoy deploying.

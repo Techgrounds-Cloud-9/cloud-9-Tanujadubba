@@ -141,7 +141,7 @@ resource securityGroup 'Microsoft.Network/networkSecurityGroups@2021-02-01' = {
           protocol: 'Tcp'
           sourcePortRange: '*'
           //sourceAddressPrefix: '*'
-          sourceAddressPrefix: '143.178.236.209'
+          sourceAddressPrefix: '2a02:a461:fa83:100:fce1:b6fd:d002:d1d7'
           destinationAddressPrefix: '*'
         }
       }
